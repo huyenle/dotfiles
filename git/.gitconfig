@@ -1,0 +1,8 @@
+[push]
+	default = current
+[user]
+	name = huyenle
+	email = huyen.ltt.812@gmail.com
+[diff]
+	algorithm = histogram
+	colorMoved = default
