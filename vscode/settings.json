@@ -1,5 +1,8 @@
 {
     "terminal.external.osxExec": "iterm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 13, // Optional, set the font size
+    "terminal.integrated.lineHeight": 1.1, // Optional, adjust line height
+    "editor.fontLigatures": true, // Optional, if using ligatures in the editor
     "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
 }
